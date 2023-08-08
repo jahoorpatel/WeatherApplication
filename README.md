@@ -12,10 +12,14 @@ In this Django Project Tutorial, I will be building a Weather Application with D
 - Front-end: Html,CSS
 - Back-end: Django
 
- **Back-end Setup:**
+ ## Back-end Setup:
+ 
    - Install Python and pip if not already installed.
    - Create a virtual environment and activate it.
    - Start the Django development server with `python manage.py runserver`.
+
+Weather API  : https://openweathermap.org/api
+
 
 
 
